@@ -8,3 +8,13 @@ C:\Users\ebrlo\source\repos\ELA2021\PracticaELA2021-GIT-VS\WindowsFormsApp1\Wind
 C:\Users\ebrlo\source\repos\ELA2021\PracticaELA2021-GIT-VS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\ebrlo\source\repos\ELA2021\PracticaELA2021-GIT-VS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\ebrlo\source\repos\ELA2021\PracticaELA2021-GIT-VS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ELA2021\source\repos\ELA2021\ELA2021\PracticaELA2021-GIT-VS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ELA2021\source\repos\ELA2021\ELA2021\PracticaELA2021-GIT-VS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ELA2021\source\repos\ELA2021\ELA2021\PracticaELA2021-GIT-VS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ELA2021\source\repos\ELA2021\ELA2021\PracticaELA2021-GIT-VS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ELA2021\source\repos\ELA2021\ELA2021\PracticaELA2021-GIT-VS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ELA2021\source\repos\ELA2021\ELA2021\PracticaELA2021-GIT-VS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ELA2021\source\repos\ELA2021\ELA2021\PracticaELA2021-GIT-VS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ELA2021\source\repos\ELA2021\ELA2021\PracticaELA2021-GIT-VS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ELA2021\source\repos\ELA2021\ELA2021\PracticaELA2021-GIT-VS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ELA2021\source\repos\ELA2021\ELA2021\PracticaELA2021-GIT-VS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
